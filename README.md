@@ -6,7 +6,7 @@
 ---
 
 ## 🌱 About Snake Game  
-When we were young, we used to play the Snake game on our parent's mobile phones. Now, we have recreated the game using the Python programming language! 🐍🍎  
+When we were young, we used to play the Snake game on our parent's mobile phones. Now, we have recreated the game using the Python programming language!!! 🐍🍎  
 
 ---
 
