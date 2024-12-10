@@ -1,18 +1,18 @@
 
-# Snake Game Using C 🐍🎮  
+# Snake Game 🐍🎮  
 
 </p>  
 
 ---
 
 ## 🌱 About Snake Game  
-When we were young, we used to play the Snake game on our parent's mobile phones. Now, we have recreated the game using the C programming language! 🐍🍎  
+When we were young, we used to play the Snake game on our parent's mobile phones. Now, we have recreated the game using the Python programming language! 🐍🍎  
 
 ---
 
-## 🌍 Language Used: **C** 🧑‍🚀  
+## 🌍 Language Used: **Python** 🧑‍🚀  
 
-## 🧩 In this project, we used the `process.h`, `windows.h`, and `time.h` header files to implement the game.  
+## 🧩 In this project, we used the `pygame` library to implement the game logic and visuals.  
 
 ---
 
@@ -29,7 +29,10 @@ When we were young, we used to play the Snake game on our parent's mobile phones
 To deploy this project, follow these steps:  
 
 ```bash
-Copy the code to any C compiler and run it.
+Install Python on your system.
+Install the Pygame library using pip:
+pip install pygame
+Run the Python script.
 ```  
 
 ---
@@ -44,4 +47,3 @@ Copy the code to any C compiler and run it.
 
 Made by **Nazeef Ahmad**, **Pragati Upadhyay**, **Arunabh Bhattacharya**  
 
-<!-- Contributors Image -->  
